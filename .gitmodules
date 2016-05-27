@@ -1,0 +1,3 @@
+[submodule "submodules/module1"]
+	path = submodules/module1
+	url = https://github.com/carpenterc/module1
