@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // modify host file
+
+		// modify host file 2 on tmp
     }
 }
